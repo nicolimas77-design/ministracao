@@ -16,7 +16,7 @@ Queria primeiro agradecer o pessoal que me convidou pra estar aqui em cima dizer
 Então vamo lá,eu queria antes dar uma contextualizada em quem era abraao antes do sacrifício`
   },
   {
-    title: "Gênesis 12",
+    title: "Gênesis 12 - Deus Chama Abraão",
     subtitle: "Deus chama Abraão",
     color: "#A855F7",
     tint: "rgba(168, 85, 247, 0.12)",
@@ -28,7 +28,7 @@ Então gente lá em genesis capitulo 12  versículo do 1:3 Deus chama Abraão e 
 (`
   },
   {
-    title: "Gênesis 14",
+    title: "Gênesis 14 - Vence a Batalha",
     subtitle: "Vitória e testemunho",
     color: "#F43F5E",
     tint: "rgba(244, 63, 94, 0.11)",
@@ -48,7 +48,7 @@ E olha o que ele diz:
 Nesse capitulo ja podemos ver que a vida de abraao e a fé dele fazia outras pessoas verem a vida dele e adorarem a Deus por isso`
   },
   {
-    title: "Gênesis 15",
+    title: "Gênesis 15 - Deus e questionamento",
     subtitle: "A promessa é reforçada",
     color: "#FB923C",
     tint: "rgba(251, 146, 60, 0.12)",
@@ -72,7 +72,7 @@ e no versiculo 6 diz que abrão creu,e por isso Deus o aceitou
 ⸻`
   },
   {
-    title: "Gênesis 17",
+    title: "Gênesis 17 - Abraao Ri",
     subtitle: "Aliança e obediência",
     color: "#FACC15",
     tint: "rgba(250, 204, 21, 0.14)",
@@ -102,7 +102,7 @@ e é assim que devemos ser,se Deus faz uma promessa a nós,revela ao nosso cora�
 ⸻`
   },
   {
-    title: "Gênesis 18",
+    title: "Gênesis 18 - Sara também duvida Deus continua fiel",
     subtitle: "Sara ouve a promessa",
     color: "#F43F5E",
     tint: "rgba(244, 63, 94, 0.09)",
@@ -124,7 +124,7 @@ Deus ele não deixa de ser fiel á promessa que Ele nos faz por causa da nossa d
 ⸻`
   },
   {
-    title: "Gênesis 21",
+    title: "Gênesis 21 - Isaque nasce",
     subtitle: "A promessa chega",
     color: "#6366F1",
     tint: "rgba(99, 102, 241, 0.1)",
@@ -146,7 +146,7 @@ aqui podemos ver mais um exemplo que As pessoas olhavam pra vida de abraao e res
 ⸻`
   },
   {
-    title: "Gênesis 22",
+    title: "Gênesis 22 - Sacrifício",
     subtitle: "A parte principal",
     color: "#A855F7",
     tint: "rgba(168, 85, 247, 0.11)",
