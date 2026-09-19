@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#F1F5FF">
+  <meta name="description" content="Ministração: uma ferramenta simples para acompanhar cada parte da sua pregação.">
+  <title>Ministração</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-header">
+      <button class="brand" id="homeButton" type="button" aria-label="Ir para o início">
+        <span class="brand-mark" aria-hidden="true">
+          <span class="brand-sheet brand-sheet-back"></span>
+          <span class="brand-sheet brand-sheet-front"><i></i><i></i><i></i></span>
+        </span>
+        <span>Ministração</span>
+      </button>
+      <span class="header-tag">10 partes</span>
+    </header>
+
+    <main id="app" tabindex="-1"></main>
+  </div>
+
+  <div class="modal-backdrop" id="cheatModal" hidden>
+    <section class="cheat-modal" role="dialog" aria-modal="true" aria-labelledby="cheatTitle">
+      <header class="cheat-header">
+        <div>
+          <span class="cheat-eyebrow">COLINHA</span>
+          <h2 id="cheatTitle"></h2>
+        </div>
+        <button class="close-button" id="closeModal" type="button" aria-label="Fechar colinha">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+        </button>
+      </header>
+      <div class="cheat-note">
+        <span class="mini-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>Aqui está<br>o seu texto original.</span>
+      </div>
+      <div class="cheat-copy" id="cheatCopy"></div>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
